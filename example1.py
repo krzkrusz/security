@@ -1,5 +1,3 @@
-url = "https://www.lsy.pl"
-
 import requests
 from requests.auth import HTTPBasicAuth
 
